@@ -11,7 +11,7 @@
 # (so be sure to read the docstrings!)
 import random
 import string
-from this import d
+#from this import d
 from webbrowser import get
 
 WORDLIST_FILENAME = "words.txt"
